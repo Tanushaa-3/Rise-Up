@@ -4,6 +4,6 @@ Developed Rise Up, an educational platform featuring user authentication, self-a
 (AI & human), job recommendations via API, NGO job postings, and personalized course suggestions based on
 user interests and skills.
 
-![Alt text](home.png)
+![Screenshot](home.png)
 
 
